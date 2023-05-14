@@ -1,0 +1,19 @@
+{
+  "members/members": "Miembros",
+  "members/new_members": "Nuevos miembros",
+  "members/no_members": "No se han encontrado miembros.",
+  "members/member_lists": "Listas de miembros",
+  "members/member_list_hide_banned_users": "¿Ocultar usuarios bloqueados?",
+  "members/member_list_toggled_enabled": "Activada con éxito la lista {{list}}.",
+  "members/member_list_toggled_disabled": "Desactivada con éxito la lista {{list}}.",
+  "members/view_all": "Ver todos",
+  "members/find_member": "Buscar miembro",
+  "members/name": "Nombre...",
+  "members/view_group": "Ver grupo",
+  "members/group": "Grupos...",
+  "members/viewable_groups": "Grupos visibles",
+  "members/no_results_header": "No se han encontrado resultados",
+  "members/no_results_text": "Su búsqueda no ha dado ningún resultado",
+  "members/no_overview_lists_enabled": "No hay listas de resumen habilitadas.",
+  "members/settings_updated_successfully": "Configuración actualizada correctamente."
+}
